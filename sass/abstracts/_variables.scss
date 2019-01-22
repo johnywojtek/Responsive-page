@@ -1,0 +1,23 @@
+// Colors
+$color-main: #fff;
+$color-secondary: linear-gradient(
+    180deg,
+    rgba(101, 226, 215, 1) 50%,
+    rgba(51, 158, 204, 1) 100%
+);
+$color-dark-blue: #060339;
+$color-desaturated-blue: #575988;
+$color-bright-blue: #3065f7;
+$color-moderate-cyan: #3c9e8e;
+$color-light-blue: #f8f8fe;
+$color-light-grey: #bfbfbf;
+
+// Fonts
+$font-main: 'Open Sans', sans-serif;
+$font-second: 'Raleway', sans-serif;
+
+// RWD
+
+$bp-medium: 48rem; // 768px   768px/16px = 48rem
+
+$bp-small: 36rem; // 576px   576px/16px = 36rem

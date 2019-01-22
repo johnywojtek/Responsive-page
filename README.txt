@@ -1,30 +1,81 @@
-Material Design for Bootstrap
+Features
+  Team
+  Sign In
+  ///
 
-Version: MDB React Free 4.8.4
+  All your files in one secure location, accessible anywhere.
 
-Documentation:
-https://mdbootstrap.com/react/
+  Fylo stores all your most important files in one secure location. Access them wherever 
+  you need, share and collaborate with friends family, and co-workers.
 
-Getting started:
-https://mdbootstrap.com/react/react-bootstrap-getting-started/
+  Get Started
 
-FAQ
-https://mdbootstrap.com/faq/
+  Access your files, anywhere
 
-Support:
-https://mdbootstrap.com/support/cat/mdb-react/
+  The ability to use a smartphone, tablet, or computer to access your account means your 
+  files follow you everywhere.
 
-ChangeLog
-https://mdbootstrap.com/react/changelog/
+  Security you can trust
 
-License:
-https://mdbootstrap.com/license/
+  2-factor authentication and user-controlled encryption are just a couple of the security 
+  features we allow to help secure your files.
 
-Facebook: https://facebook.com/mdbootstrap
-Twitter: https://twitter.com/MDBootstrap
-Google+: https://plus.google.com/u/0/+Mdbootstrap/posts
-Dribbble: https://dribbble.com/mdbootstrap
+  Real-time collaboration
 
+  Securely share files and folders with friends, family and colleagues for live collaboration. 
+  No email attachments required.
 
-Contact:
-office@mdbootstrap.com
+  Store any type of file
+
+  Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all 
+  file types to be securely stored and shared.
+
+  Stay productive, wherever you are
+
+  Never let location be an issue when accessing your files. Fylo has you covered for all of your file 
+  storage needs.
+
+  Securely share files and folders with friends, family and colleagues for live collaboration. No email 
+  attachments required.
+
+  See how Fylo works
+
+  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
+  become a well-oiled collaboration machine.
+
+  Satish Patel
+  Founder & CEO, Huddle
+
+  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
+  become a well-oiled collaboration machine.
+
+  Bruce McKenzie
+  Founder & CEO, Huddle
+
+  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
+  become a well-oiled collaboration machine.
+
+  Iva Boyd
+  Founder & CEO, Huddle
+
+  Get early access today
+
+  It only takes a minute to sign up and our free starter tier is extremely generous. If you have any 
+  questions, our support team would be happy to help you.
+
+  Get Started For Free
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+  dolore magna aliqua
+
+  +1-543-123-4567
+  example@fylo.com
+
+  About Us
+  Jobs
+  Press
+  Blog
+
+  Contact Us
+  Terms
+  Privacy

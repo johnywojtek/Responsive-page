@@ -1,0 +1,31 @@
+@import "../abstracts/variables";
+
+.navigation {
+    padding: 6rem 0;
+
+    &__container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    &__list {
+        list-style: none;
+        display: flex;
+    }
+
+    &__item {
+        margin-left: 5.7rem;
+        font-family: $font-second;
+        font-size: 1.6rem;
+    }
+
+    &__item--first {
+        margin-left: 0;
+    }
+
+    &__link {
+        text-decoration: none;
+        color: $color-secondary;
+    }
+}

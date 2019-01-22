@@ -1,0 +1,25 @@
+@import "../abstracts/variables";
+
+.get-started {
+    padding: 2rem 0;
+
+    &__container {
+        display: flex;
+    }
+
+    &__left, &__right {
+        flex-basis: 50%;
+    }
+
+    &__left {
+        padding-right: 4rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &__form {
+        padding-bottom: 4rem;
+    }
+}
+
